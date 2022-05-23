@@ -1,7 +1,7 @@
 import Image from "next/image"
-import cat1 from "../public/images/aaira1.gif"
-import cat2 from "../public/images/aaira2.gif"
-import cat3 from "../public/images/aaira2.gif"
+import cat1 from "../public/images/aaira1.jpeg"
+import cat2 from "../public/images/aaira2.jpeg"
+import cat3 from "../public/images/aaira2.jpeg"
 
 export default function Home() {
   return (
